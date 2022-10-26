@@ -2,4 +2,4 @@
 # NODE REST API
 Tuturial de configuração pelo API REST com o uso da plataforma NODE
 ## Autor
-Professor José de Assis
+Gabriel Cafeu
